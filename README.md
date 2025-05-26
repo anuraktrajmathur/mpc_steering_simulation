@@ -33,10 +33,10 @@ This project simulates a vehicle following a sine-wave trajectory using a simpli
 ## 📈 Example Output
 
 ### Simulated Path Tracking  
-![path_tracking](docs/path_tracking.png)
+![path_tracking](path_tracking.png)
 
 ### Steering Angle Over Time  
-![steering_plot](docs/steering_angle.png)
+![steering_plot](steering_plot.png)
 
 
 ---
