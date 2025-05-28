@@ -129,5 +129,5 @@ Contributions are welcome! Suggestions include:
 
 ### 🙋‍♂️ Author
 Anurakt Raj Mathur
-🔗 [LinkedIn](https://www.linkedin.com/in/anuraktrajmathur)
-📬 anuraktrajmathur@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/anurakt-raj-mathur)
+📬 Email: anuraktrajmathur@gmail.com
