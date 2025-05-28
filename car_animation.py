@@ -29,14 +29,14 @@ def load_csv(filepath, has_theta=False):
         else:
             return [[float(row[0]), float(row[1])] for row in reader]
 
-true_positions = load_csv(r'C:\Users\anura\Desktop\ekf_steering_prediction\true_path.csv')
-noisy_positions = load_csv(r'C:\Users\anura\Desktop\ekf_steering_prediction\noisy_measurements.csv')
-mpc_positions = load_csv(r'C:\Users\anura\Desktop\ekf_steering_prediction\mpc_estimated_path.csv', has_theta=True)
+true_positions = load_csv(r'your_filepath/true_path.csv')
+noisy_positions = load_csv(r'your_filepath/noisy_measurements.csv')
+mpc_positions = load_csv(r'your_filepath/mpc_estimated_path.csv', has_theta=True)
 
 # ------------------------
 # IMPORT CAR MODEL
 # ------------------------
-bpy.ops.wm.obj_import(filepath=r'C:/Users/anura/Desktop/ekf_steering_prediction/Models/car.obj')
+bpy.ops.wm.obj_import(filepath=r'your_filepath/car.obj')
 car = bpy.context.selected_objects[0]
 
 

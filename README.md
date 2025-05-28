@@ -1,5 +1,7 @@
 # 🧭 Vehicle Steering Simulation using Heuristic Control and Kinematic Bicycle Model
 
+![thumbnail](thumbnail.png)
+
 This project simulates a vehicle following a sine-wave trajectory using a simplified **kinematic bicycle model** and a **heuristic steering controller**, mimicking basic MPC behavior. The simulated path is visualized in **Matplotlib**, and the path data is exported for animation in **Blender** using a car CAD model.
 
 ---
@@ -26,7 +28,7 @@ This project simulates a vehicle following a sine-wave trajectory using a simpli
 | `car.obj`                 | CAD model of a car                              |
 | `car_animation.py`        | Python script for Blender animation             |
 | `animation.mkv`           | Final animation video                           |
-
+| `thumbnail.png`           | Thumbnail                                       |
 
 ---
 
